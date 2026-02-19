@@ -157,7 +157,7 @@ Attribution appreciated but not required.
 ## 👤 Author
 
 **Ivan But** — Full Stack Engineer
-- 📧 ivan@but.dev
+- 📧 w3st.hd@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/ivanBut)
-- 🐙 [GitHub](https://github.com/ivanBut)
+- 🐙 [GitHub]((https://github.com/sh3vhd))
 - 💰 Rate: €100/hour · Remote-first · Available now
